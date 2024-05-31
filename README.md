@@ -16,5 +16,7 @@ $ pip install pillow
 $ pip install beautifulsoup4
 $ pip install numpy
 $ pip install scikit-learn
+$ pip install imgaug
+
 ```
 ## Sample output
