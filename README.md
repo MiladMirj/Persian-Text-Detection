@@ -19,4 +19,12 @@ $ pip install scikit-learn
 $ pip install imgaug
 
 ```
-## Sample output
+## Sample training data and output
+![val_batch0_pred](https://github.com/MiladMirj/Persian-Text-Detection-Wikipedia/assets/131509932/5d5b97a2-2f63-4d94-8503-735c72c1d8a0)
+
+![train_batch0](https://github.com/MiladMirj/Persian-Text-Detection-Wikipedia/assets/131509932/46ff5994-46ea-4527-8933-5fbcd747fc06)
+
+![Capture2](https://github.com/MiladMirj/Persian-Text-Detection-Wikipedia/assets/131509932/2cb536c6-a1df-4276-9ec1-7538f7d2e261)
+
+![Capture](https://github.com/MiladMirj/Persian-Text-Detection-Wikipedia/assets/131509932/9b52711e-1835-40e2-9c47-3780b15e1425)
+
