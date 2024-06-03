@@ -18,9 +18,10 @@ $ pip install numpy
 $ pip install scikit-learn
 $ pip install imgaug
 
+```
 ## How to run
 Run main.py and follow the instructions.
-```
+
 ## Sample training data and output
 ![val_batch0_pred](https://github.com/MiladMirj/Persian-Text-Detection-Wikipedia/assets/131509932/5d5b97a2-2f63-4d94-8503-735c72c1d8a0)
 
